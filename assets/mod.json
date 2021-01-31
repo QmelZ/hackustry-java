@@ -1,11 +1,11 @@
 {
-  "name": "modtemplate",
-  "displayName": "Template",
-  "author": "[#8738ff[]]Sonnicon[[]]",
-  "description": "Gradle jar Mindustry mod template",
-  "version": "0",
-  "main": "sonnicon.modtemplate.ModTemplate",
-  "minGameVersion": "105",
+  "name": "hackustry-java",
+  "displayName": "Hackustry",
+  "author": "QmelZ",
+  "description": "Hackustry but in java, for real this time",
+  "version": "3.java",
+  "main": "hackustry.Hackustry",
+  "minGameVersion": "120",
   "dependencies": [],
   "hidden": false
 }
